@@ -1,5 +1,5 @@
 # IAM Identity Synchronizer (Browser Automation)
----
+
 Executive Summary
 ---
 This project is an Identity & Access Management (IAM) automation utility built to synchronize user credentials across enterprise SaaS platforms. It eliminates manual data entry by programmatically harvesting unique profile identifiers and executing batch updates to align usernames with organizational standards.
