@@ -73,5 +73,5 @@ Use update_identities(dry_run=True) to verify changes before committing to the d
 Author
 ---
 Suriyah Saravanan | 
-Bachelor of Science in Management Information Systems (MIS), Cybersecurity | 
+Bachelor's in Management Information Systems (MIS), Cybersecurity | 
 Florida Atlantic University
