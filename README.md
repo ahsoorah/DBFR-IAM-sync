@@ -2,13 +2,13 @@
 
 Executive Summary
 ---
-This project is an Identity & Access Management (IAM) automation utility built to synchronize user credentials across enterprise SaaS platforms. It eliminates manual data entry by programmatically harvesting unique profile identifiers and executing batch updates to align usernames with organizational standards.
+This project is an Identity & Access Management (IAM) automation utility built to synchronize and standardize user identity attributes across enterprise SaaS platforms. It eliminates manual data entry by programmatically harvesting unique profile identifiers and executing batch updates to align usernames with organizational standards.
 
 Originally developed by me during a Fire Technology Internship with the City of Delray Beach Fire-Rescue (DBFR) to uphold username standards in mission-critical platforms, this tool transformed a high-volume administrative task into a streamlined, automated routine.
 
 Business Impact
 ---
-Operational Efficiency: Automated the standardization of 200+ personnel accounts, reducing a multi-day manual project to a 15-minute process.
+Operational Efficiency: Automated the standardization of 200+ personnel accounts, reducing a multi-day manual project to a 15-minute automated process after secure administrator authentication.
 
 Support Reduction: Significantly decreased helpdesk tickets related to login failures by ensuring 100% username consistency with municipal email addresses.
 
@@ -68,7 +68,7 @@ Run: Execute the class methods via the if __name__ == "__main__": block.
 
 Use harvest_accounts() first to build the identity map.
 
-Use update_identities(dry_run=True) to verify changes before committing to the database.
+Use update_identities(dry_run=True) to preview changes before committing them through the application interface.
 
 Author
 ---
