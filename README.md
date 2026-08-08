@@ -8,7 +8,7 @@ Originally developed by me during a Fire Technology Internship with the City of 
 
 Business Impact
 ---
-Operational Efficiency: Automated the standardization of 200+ personnel accounts, reducing a multi-day manual project to a 20-minute unattended routine.
+Operational Efficiency: Automated the standardization of 200+ personnel accounts, reducing a multi-day manual project to a 15-minute process.
 
 Support Reduction: Significantly decreased helpdesk tickets related to login failures by ensuring 100% username consistency with municipal email addresses.
 
